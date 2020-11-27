@@ -1,0 +1,1 @@
+./toutf.pl messages_ko_original.properties>messages_ko.properties
