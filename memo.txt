@@ -1,1 +1,2 @@
 ./update.sh
+alternative repeats를 선택 반복으로 번역함.
