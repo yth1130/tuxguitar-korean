@@ -17,5 +17,11 @@ TuxGuitar 프로그램의 한글 번역파일입니다.
 
 윈도우와 맥의 번역 폴더 경로를 아시는 분들은 제보 바랍니다.
 
+---
+스크린샷
+------
+![screenshot](tuxguitar-screenshot.png)
+
+
 -----
 TuxGuitar: https://sourceforge.net/projects/tuxguitar/
